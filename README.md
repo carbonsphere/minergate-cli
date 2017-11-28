@@ -12,7 +12,7 @@ User-friendly miner supports Bytecoin, Monero, Quazarcoin, Litecoin, DarkNote, F
 CentOS 7
 
 # Usage: 
-## Mining XMR
+#### Mining XMR
 ```console
 $ docker run -d --name xmr --net=host carbonsphere/minergate-cli -u yourMinerGateEmail@home.com --xmr
 ```
@@ -27,8 +27,8 @@ v.6.2
 $ docker logs -f xmr
 ```
 
-# *** Remember to change user flag to your minergate email account.
-# If not, you'll be Mining for ME, which I am appreciated.
+### *** Remember to change user flag to your minergate email account.
+### If not, you'll be Mining for ME, which I am appreciated.
 
 # Donation Address
 
@@ -42,5 +42,5 @@ Every bit helps. Thanks!
 - IOTA: IGTKRHHTOIAHB9HCYIZNLPASKHEENKIJICZCCJSUXNZGFKYRLNOJQ9TMXIJYFUBLQ9YWXRMSMWXNDQWD9QINXNXOXW
 
 # Buy ETH or BTC with USD / Credit Card from CoinBase.com to get Free $10 BTC
-- [CoinBase] (https://www.coinbase.com/join/59fd2b2af2e50b01171a4ae6)
+- [CoinBase](https://www.coinbase.com/join/59fd2b2af2e50b01171a4ae6)
 
